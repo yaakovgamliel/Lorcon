@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lorcon/!svn/ver/221/tags/lorcon2-200911-rc1/ruby-lorcon
+END
+Lorcon2.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lorcon/!svn/ver/221/tags/lorcon2-200911-rc1/ruby-lorcon/Lorcon2.c
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/lorcon/!svn/ver/221/tags/lorcon2-200911-rc1/ruby-lorcon/test.rb
+END
+Lorcon2.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lorcon/!svn/ver/221/tags/lorcon2-200911-rc1/ruby-lorcon/Lorcon2.h
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lorcon/!svn/ver/221/tags/lorcon2-200911-rc1/ruby-lorcon/extconf.rb
+END
+apitest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lorcon/!svn/ver/221/tags/lorcon2-200911-rc1/ruby-lorcon/apitest.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lorcon/!svn/ver/221/tags/lorcon2-200911-rc1/ruby-lorcon/README
+END
